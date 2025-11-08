@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Matlab
+message: lenguaje m
+type: software
+authors:
+  - given-names: Anette Mariana
+    family-names: Vidal Ortiz
+    email: l22212389@tectijuana.edu.mx
+    affiliation: TECNM-ITT
+repository-code: >-
+  https://github.com/anettevidal/Practica-Regeneracion-de-globulos-rojos
+keywords:
+  - Glóbulos rojos
+  - Transfusión sanguínea
+  - Regeneración
+  - Paciente
+  - Modelo matemático
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-07'
