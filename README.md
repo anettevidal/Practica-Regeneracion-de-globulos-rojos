@@ -1,10 +1,10 @@
-[![Open in MATLAB Online]
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=anettevidal/Practica-Regeneracion-de-globulos-rojos)
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+Anette Mariana Vidal Ortiz [22212389]; l22212389@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -42,7 +42,7 @@ y con las siguientes condiciones iniciales:
 
 
 
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Glóbulos rojos; Transfusión sanguínea; Regeneración; Paciente; Modelo matemático .
 
 ## Lista de archivos incluidos en el repositorio
 
